@@ -1,6 +1,9 @@
 # Procrastinator
 
-This is a project to create a device that would periodically move the mouse. Implemented for the Logitech m705 mouse, but the basic ideas will work for other devices as well.
+This is a project to create a device that would periodically move the mouse. 
+It is a docking station, on which you can install the mouse and which would move a disk every 2 minutes, which creates the movement of the mouse cursor.
+Implemented for the Logitech m705 mouse, but the basic ideas will work for other devices as well.
+
 
 The project includes:
 - model in fusion 360
